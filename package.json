@@ -10,11 +10,11 @@
   "author": "Shivam Gupta",
   "license": "ISC",
   "dependencies": {
-    "@angular/cli": "^8.3.29",
-    "bootstrap": "^3.4.1",
+    "@angular/cli": "^8.0.0",
+    "bootstrap": "^3.0.0",
     "express": "~4.17.0",
     "lodash": "4.16.6",
-    "moment": "^2.29.1",
-    "react": "^17.0.1"
+    "moment": "*",
+    "react": "*"
   }
 }
