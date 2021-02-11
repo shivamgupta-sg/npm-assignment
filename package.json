@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@angular/cli": "^8.0.0",
-    "bootstrap3": "*",
+    "bootstrap": "3.x",
     "express": "~4.17.0",
     "lodash": "4.16.6",
     "moment": "*",
